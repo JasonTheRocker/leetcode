@@ -1,3 +1,5 @@
+https://leetcode.com/problems/min-stack/
+
 The challenge of this question is to get the new min once the current min poped out.
 
 The idea of this solution is to always push a copy of the second smallest value before we push in a new min value.
